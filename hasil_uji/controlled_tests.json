@@ -1,0 +1,32 @@
+{
+  "synthetic_total": 162,
+  "synthetic_pass": 162,
+  "failures": [],
+  "controls": [
+    {
+      "case": "blank_0",
+      "passed": true
+    },
+    {
+      "case": "blank_115",
+      "passed": true
+    },
+    {
+      "case": "blank_255",
+      "passed": true
+    },
+    {
+      "case": "missing_object_hidden",
+      "passed": true
+    },
+    {
+      "case": "color_replacement",
+      "passed": true
+    },
+    {
+      "case": "translation_14_frames",
+      "passed": true
+    }
+  ],
+  "scope": "Generated controlled images; not independent real-camera validation."
+}

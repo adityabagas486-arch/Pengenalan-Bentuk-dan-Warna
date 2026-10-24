@@ -1,0 +1,43 @@
+{
+  "version": "automatic-v3",
+  "n": 3840,
+  "shape_correct": 3669,
+  "color_correct": 3443,
+  "joint_correct": 3443,
+  "per_shape": {
+    "jajar_genjang": {
+      "n": 640,
+      "shape_ok": 634,
+      "joint_ok": 595
+    },
+    "lingkaran": {
+      "n": 640,
+      "shape_ok": 640,
+      "joint_ok": 606
+    },
+    "persegi": {
+      "n": 640,
+      "shape_ok": 640,
+      "joint_ok": 607
+    },
+    "persegi_panjang": {
+      "n": 640,
+      "shape_ok": 477,
+      "joint_ok": 450
+    },
+    "segitiga": {
+      "n": 640,
+      "shape_ok": 638,
+      "joint_ok": 592
+    },
+    "trapesium": {
+      "n": 640,
+      "shape_ok": 640,
+      "joint_ok": 593
+    }
+  },
+  "median_ms": 1.9744720000289817,
+  "p95_ms": 2.5301420500397853,
+  "opencv": "4.12.0",
+  "scope": "Synthetic dataset subset; previous calibration/test images now used only as evaluation; no training on real objects."
+}

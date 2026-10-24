@@ -1,0 +1,141 @@
+{
+  "scope": "Development checks on the same user screenshot and digital transformations; not independent live-camera evidence.",
+  "book_variants": [
+    {
+      "dx": 0,
+      "dy": 0,
+      "rotation": 0,
+      "brightness_gain": 1,
+      "passed": true,
+      "prediction": [
+        [
+          "Persegi Panjang",
+          "Putih"
+        ]
+      ]
+    },
+    {
+      "dx": -70,
+      "dy": 0,
+      "rotation": 0,
+      "brightness_gain": 1,
+      "passed": true,
+      "prediction": [
+        [
+          "Persegi Panjang",
+          "Putih"
+        ]
+      ]
+    },
+    {
+      "dx": 70,
+      "dy": 0,
+      "rotation": 0,
+      "brightness_gain": 1,
+      "passed": true,
+      "prediction": [
+        [
+          "Persegi Panjang",
+          "Putih"
+        ]
+      ]
+    },
+    {
+      "dx": 0,
+      "dy": -30,
+      "rotation": 0,
+      "brightness_gain": 1,
+      "passed": true,
+      "prediction": [
+        [
+          "Persegi Panjang",
+          "Putih"
+        ]
+      ]
+    },
+    {
+      "dx": 0,
+      "dy": 25,
+      "rotation": 0,
+      "brightness_gain": 1,
+      "passed": true,
+      "prediction": [
+        [
+          "Persegi Panjang",
+          "Putih"
+        ]
+      ]
+    },
+    {
+      "dx": 0,
+      "dy": 0,
+      "rotation": 10,
+      "brightness_gain": 1,
+      "passed": true,
+      "prediction": [
+        [
+          "Persegi Panjang",
+          "Putih"
+        ]
+      ]
+    },
+    {
+      "dx": 0,
+      "dy": 0,
+      "rotation": -10,
+      "brightness_gain": 1,
+      "passed": true,
+      "prediction": [
+        [
+          "Persegi Panjang",
+          "Putih"
+        ]
+      ]
+    },
+    {
+      "dx": 0,
+      "dy": 0,
+      "rotation": 20,
+      "brightness_gain": 1,
+      "passed": true,
+      "prediction": [
+        [
+          "Persegi Panjang",
+          "Putih"
+        ]
+      ]
+    },
+    {
+      "dx": 0,
+      "dy": 0,
+      "rotation": 0,
+      "brightness_gain": 0.8,
+      "passed": false,
+      "prediction": [
+        [
+          "Jajar Genjang",
+          "Putih"
+        ]
+      ]
+    },
+    {
+      "dx": 0,
+      "dy": 0,
+      "rotation": 0,
+      "brightness_gain": 1.15,
+      "passed": true,
+      "prediction": [
+        [
+          "Persegi Panjang",
+          "Putih"
+        ]
+      ]
+    }
+  ],
+  "sponge_prediction": [
+    [
+      "Persegi Panjang",
+      "Kuning"
+    ]
+  ]
+}

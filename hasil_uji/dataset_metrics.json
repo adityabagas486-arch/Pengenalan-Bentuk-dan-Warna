@@ -1,9 +1,16 @@
 {
-  "version": "automatic-v3",
-  "n": 3840,
-  "shape_correct": 3669,
-  "color_correct": 3443,
-  "joint_correct": 3443,
+  "version": "automatic-v3-folder-evaluation",
+  "dataset_directory": "D:\\Tugas\\Matkul\\Sems 5\\TEKBER\\Open CV Baru UTS\\GroupXX_OpenCV_Source_Code (1)\\OpenCV_Automatis\\dataset\\test",
+  "files_found": 4393,
+  "n": 4393,
+  "unreadable_count": 0,
+  "unreadable_files": [],
+  "shape_correct": 3873,
+  "color_correct": 3697,
+  "joint_correct": 3623,
+  "shape_accuracy_percent": 88.16,
+  "color_accuracy_percent": 84.16,
+  "joint_accuracy_percent": 82.47,
   "per_shape": {
     "jajar_genjang": {
       "n": 640,
@@ -11,24 +18,24 @@
       "joint_ok": 595
     },
     "lingkaran": {
-      "n": 640,
-      "shape_ok": 640,
-      "joint_ok": 606
+      "n": 1045,
+      "shape_ok": 824,
+      "joint_ok": 769
     },
     "persegi": {
-      "n": 640,
+      "n": 650,
       "shape_ok": 640,
       "joint_ok": 607
     },
     "persegi_panjang": {
-      "n": 640,
-      "shape_ok": 477,
-      "joint_ok": 450
+      "n": 748,
+      "shape_ok": 494,
+      "joint_ok": 464
     },
     "segitiga": {
-      "n": 640,
-      "shape_ok": 638,
-      "joint_ok": 592
+      "n": 670,
+      "shape_ok": 641,
+      "joint_ok": 595
     },
     "trapesium": {
       "n": 640,
@@ -36,8 +43,8 @@
       "joint_ok": 593
     }
   },
-  "median_ms": 1.9744720000289817,
-  "p95_ms": 2.5301420500397853,
-  "opencv": "4.12.0",
-  "scope": "Synthetic dataset subset; previous calibration/test images now used only as evaluation; no training on real objects."
+  "median_ms": 6.704700004775077,
+  "p95_ms": 12.114459997974329,
+  "opencv": "4.14.0",
+  "scope": "Evaluasi gambar berdasarkan label folder. Bukan training dan bukan pengukuran akurasi webcam. File tidak terbaca dilaporkan terpisah dan dikeluarkan dari perhitungan ketepatan."
 }
